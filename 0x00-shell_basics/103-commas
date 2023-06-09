@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -Ap | sort -dk1.1,1.1 -k1.2 | paste -sd ","
+ls -Ap | sort -dk1.1,1.1 -k1.2 | paste -sd ",  "
